@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An extract of severall letters from Scotland: concerning the defeat given to the rebels forces under the command of James Ghrame, Earl of Montrosse, at Dundy, by the army of the Parliament of Scotland, under the conduct of Lieutenant-Generall Baylie, and Generall-Major Urry. Together with their pursuit of the rebels after the victory: dated at Killimure the 7. of April. 1645. 15. April. 1645. Ordered by the Lords and Commons assembled in Parliament, that publike thanksgiving be made on Sunday next in all churches and chappels within the lines of communication, for the great blessing God hath given our brethren of Scotland, in the late victory obtained against the forces under the command of the Earle of Montrosse: and it is further ordered, that this relation and order be forthwith printed and published. H. Elsynge Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84308</idno>
+            <idno type="STC">Wing E3910</idno>
+            <idno type="STC">Thomason E278_11</idno>
+            <idno type="STC">ESTC R200013</idno>
+            <idno type="STC">ESTC R200017</idno>
+            <idno type="EEBO-CITATION">99860819</idno>
+            <idno type="PROQUEST">99860819</idno>
+            <idno type="VID">130523</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84308)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130523)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E278[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An extract of severall letters from Scotland: concerning the defeat given to the rebels forces under the command of James Ghrame, Earl of Montrosse, at Dundy, by the army of the Parliament of Scotland, under the conduct of Lieutenant-Generall Baylie, and Generall-Major Urry. Together with their pursuit of the rebels after the victory: dated at Killimure the 7. of April. 1645. 15. April. 1645. Ordered by the Lords and Commons assembled in Parliament, that publike thanksgiving be made on Sunday next in all churches and chappels within the lines of communication, for the great blessing God hath given our brethren of Scotland, in the late victory obtained against the forces under the command of the Earle of Montrosse: and it is further ordered, that this relation and order be forthwith printed and published. H. Elsynge Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Another edition has title "An extract of severall letters from Scotland; sent to their commissioners in England" (Wing E3911).</note>
+                  <note>Annotation on Thomason copy: "Apr 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Montrose, James Graham, --  Marquis of, 1612-1650.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:130523:1"/>
+            <pb facs="tcp:130523:1" rendition="simple:additions"/>
+            <p>AN EXTRACT Of Severall LETTERS From SCOTLAND: Concerning the Defeat given to the Rebels Forces un<g ref="char:EOLhyphen"/>der the Command of <hi>James Ghrame,</hi> Earl of <hi>Mont<g ref="char:EOLhyphen"/>roſſe,</hi> at <hi>Dundy,</hi> by the Army of the Parliament of <hi>Scotland,</hi> under the Conduct of Lieutenant-Generall <hi>Baylie,</hi> and Generall-Major <hi>Urry.</hi>
+            </p>
+            <p>Together with their purſuit of the Rebels after the Vi<g ref="char:EOLhyphen"/>ctory: Dated at <hi>Killimure</hi> the 7. of <hi>April.</hi> 1645.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>15. April. 1645.</hi>
+                        </date>
+                     </dateline>
+                  </opener>
+                  <p>ORdered by the Lords and Commons Aſſembled in Par<g ref="char:EOLhyphen"/>liament, that publike Thankſgiving be made on Sunday next in all Churches and Chappels within the Lines of Communication for the great bleſsing God hath given to our Brethren of <hi>Scotland,</hi> in the late Victory obtained againſt the Forces under the Command of the Earle of <hi>Montroſſe:</hi> And it is further Ordered, That this Relation and Order be forthwith Printed and Publiſhed.</p>
+                  <closer>
+                     <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>London, Printed for <hi>Edward Husbands.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:130523:2"/>
+            <pb n="3" facs="tcp:130523:2"/>
+            <head>An Extract of ſeverall Letters from <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> concerning the defeat given to the Rebels Forces at <hi>Dundy.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">V</seg>Pon <hi>Thurſday</hi> the third of this in<g ref="char:EOLhyphen"/>ſtant, the one half of our Army be<g ref="char:EOLhyphen"/>ing quartered on the <hi>South-ſide</hi> of <hi>Tay,</hi> the other half on the <hi>North-ſide;</hi> the <hi>Re<g ref="char:EOLhyphen"/>bels</hi> apprehending that all our Army was marched over, at ten at night begun their march toward <hi>Dundy,</hi> with intention to ſurpriſe it; which being diſcovered, we ſent preſently advertiſement to the town, to be in a readineſſe to enterain them, promiſing them aſsiſtance very ſpeedily: VVhereupon the <hi>Citizens</hi> and <hi>Jnhabi<g ref="char:EOLhyphen"/>tants</hi> (for there were but few <hi>Souldiers</hi> there) put themſelves in a poſture of De<g ref="char:EOLhyphen"/>fence, and within very few hours after,
+<pb n="4" facs="tcp:130523:3"/>the Enemy approached about twelve of the clock the next day, with the greateſt part of his ſtrength (<hi>The late Earl of</hi> Montroſs <hi>their chief Commander ſlain upon a hill, with about Five hundred, at a reaſona<g ref="char:EOLhyphen"/>ble diſtance within view of the Town:</hi>) They aſſaulted the VVorks very furiouſly at four ſeveral places, but were gallantly re<g ref="char:EOLhyphen"/>pulſed; yet after a hot diſpute, the Enemy gained one of their Forts, and turned the Canon upon the Town, but they were quickly beaten from it, eſpecially by the valour of <hi>Leiutenant Coleburn,</hi> who was lying ſick of the <hi>Gout</hi> when the Enemy aſſaulted the VVorks; but having notice in what danger the town was, and know<g ref="char:EOLhyphen"/>ing how few Souldiers were in it, deſired to be carryed out in a chair, not being able to walk, <hi>But upon the firſt ſight of the Re<g ref="char:EOLhyphen"/>bels he forgot his pain, and with an hundred Muſquetiers which he called to him, he made
+<pb n="5" facs="tcp:130523:3"/>the Enemy to quit the Fort;</hi> The Enemy notwithſtanding continued fighting, till their Forces on the Hills perceived the ad<g ref="char:EOLhyphen"/>vance of our Forces, which was about five of the clock at night, whereupon they ſounded a Retreat; <hi>Wherein, though they made great haſte, yet General Major</hi> Urry <hi>did overtake their Reare, and did good execu<g ref="char:EOLhyphen"/>tion upon them; Jt were hard to determine, whether the flight or purſuit were more eager;</hi> Our Foot went on ſo cheerfully, that they caſt away all that might hinder their march <hi>(Arms excepted)</hi> and marched, or rather run with the Horſe, and the Iriſh and Highlanders caſt away their Plaides and Arms, to the number of ſix or ſeven hundred, and left all their Baggage and Ammunition behinde them, ſo that if the night had not come on very dark, <hi>few had eſcaped.</hi> At the Town, and in then flight, there were killed between four and five
+<pb n="6" facs="tcp:130523:4"/>hundred, <hi>amongſt whom, two were much la<g ref="char:EOLhyphen"/>mented by the Jriſh, for when they fell, there was a terrible howling among them, and they fought deſperately to recover their bodies, one of their Faces was ſo disfigured and mangled by the Iriſh, themſelves not being able to carry away his Corps, that it was not poſſible to di<g ref="char:EOLhyphen"/>ſcern who he was; Some ſay it was Col:</hi> Kit<g ref="char:EOLhyphen"/>togh, <hi>others ſay it was</hi> O Cain, <hi>a man of great eſteem amongſt them;</hi> the Town left not in all above ſeventeen or eighteen per<g ref="char:EOLhyphen"/>ſons: we continued all night in the fields both Horſe and Foot, and the next morn<g ref="char:EOLhyphen"/>ing before day-light wee marched after their greateſt body, which, as we under<g ref="char:EOLhyphen"/>ſtood afterward, had marched that night as farre as <hi>Melgum,</hi> twelve miles from <hi>Dundy,</hi> and croſſed <hi>Carreſton</hi> before day-light; vvhereupon our Horſe followed with all the haſte they might, and did overtake them marching toward the hills,
+<pb n="7" facs="tcp:130523:4"/>they were in ſuch confuſion, that <hi>notwith<g ref="char:EOLhyphen"/>ſtanding we had no Foot there, they did never ſo much as turn Faces about, but marched from one plain to another;</hi> many of them are fallen off from the reſt, and many vvere killed by our Horſe, and ſome by the country people; vvee have purſued ſo quickly, that they got neither leave to harm the country, nor to take reſt or meat to refreſh them. Upon <hi>Sunday</hi> at night Gen: Major <hi>Vrry</hi> met vvith a party of them neer <hi>Edyell,</hi> vvhereof he killed four<g ref="char:EOLhyphen"/>ſcore, and put the reſt to flight. Our Ar<g ref="char:EOLhyphen"/>my is now divided, one part lyeth between the Rebels and the hills, the other hall is marched to <hi>Atholl,</hi> the ordinary place of their Retreat. So that, by Gods bleſsing upon our Forces, vve truſt vvithin a ſhort time there ſhall bee no Enemy here to op<g ref="char:EOLhyphen"/>poſe us.</p>
+            <closer>
+               <dateline>
+                  <hi>Killimure,</hi> 
+                  <date>7. <hi>April,</hi> 1645.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
